@@ -1,1 +1,2 @@
-python backup.py
+@echo OFF
+python abacus.py
